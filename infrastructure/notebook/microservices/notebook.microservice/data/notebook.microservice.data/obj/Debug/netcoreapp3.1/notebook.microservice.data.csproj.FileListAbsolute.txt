@@ -1,0 +1,17 @@
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\bin\Debug\netcoreapp3.1\notebook.microservice.data.deps.json
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\bin\Debug\netcoreapp3.1\notebook.microservice.data.dll
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\bin\Debug\netcoreapp3.1\notebook.microservice.data.pdb
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\bin\Debug\netcoreapp3.1\notebook.core.dll
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\bin\Debug\netcoreapp3.1\notebook.core.pdb
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\obj\Debug\netcoreapp3.1\notebook.microservice.data.csprojAssemblyReference.cache
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\obj\Debug\netcoreapp3.1\notebook.microservice.data.AssemblyInfoInputs.cache
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\obj\Debug\netcoreapp3.1\notebook.microservice.data.AssemblyInfo.cs
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\obj\Debug\netcoreapp3.1\notebook.microservice.data.csproj.CoreCompileInputs.cache
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\obj\Debug\netcoreapp3.1\notebook.microservice.data.csproj.CopyComplete
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\obj\Debug\netcoreapp3.1\notebook.microservice.data.dll
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\obj\Debug\netcoreapp3.1\notebook.microservice.data.pdb
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\bin\Debug\netcoreapp3.1\notebook.microservice.data.runtimeconfig.json
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\bin\Debug\netcoreapp3.1\notebook.microservice.data.runtimeconfig.dev.json
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\data\notebook.microservice.data\obj\Debug\netcoreapp3.1\notebook.microservice.data.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\bin\Debug\netcoreapp3.1\notebook.core.deps.json
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\bin\Debug\netcoreapp3.1\notebook.core.runtimeconfig.json
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\bin\Debug\netcoreapp3.1\notebook.core.runtimeconfig.dev.json
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\bin\Debug\netcoreapp3.1\notebook.core.dll
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\bin\Debug\netcoreapp3.1\notebook.core.pdb
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\obj\Debug\netcoreapp3.1\notebook.core.csprojAssemblyReference.cache
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\obj\Debug\netcoreapp3.1\notebook.core.AssemblyInfoInputs.cache
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\obj\Debug\netcoreapp3.1\notebook.core.AssemblyInfo.cs
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\obj\Debug\netcoreapp3.1\notebook.core.csproj.CoreCompileInputs.cache
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\obj\Debug\netcoreapp3.1\notebook.core.dll
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\obj\Debug\netcoreapp3.1\notebook.core.pdb
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\core\notebook.core\obj\Debug\netcoreapp3.1\notebook.core.genruntimeconfig.cache

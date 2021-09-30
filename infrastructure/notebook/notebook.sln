@@ -3,9 +3,70 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{E756F2BC-2622-46EB-85CA-73841041EB3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{7BC25732-282D-43EA-945B-8448ADD8194D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "microservices", "microservices", "{D585806A-E5DA-4D5F-8AEB-6F714A6AC354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notebook.gateway.api", "api\notebook.gateway.api\notebook.gateway.api.csproj", "{221F5671-3520-46BC-B797-E4EEB2C8D9F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notebook.core", "core\notebook.core\notebook.core.csproj", "{7660C1E5-A5C9-4644-A320-84609F513304}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "notebook.microservice", "notebook.microservice", "{DFE6F0C8-200B-4D68-8A89-DC11A0B408D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{334E84D1-A4F2-4372-BE58-175357404428}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{6F3587C3-E256-4BE1-AC75-61B4AA5C6C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notebook.microservice.api", "microservices\notebook.microservice\api\notebook.microservice.api\notebook.microservice.api.csproj", "{D85BBE8C-75E8-46AA-BED8-5FE00A22CC6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "service", "service", "{5304AE7F-5304-4AF6-960E-63E0C0C55BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notebook.microservice.data", "microservices\notebook.microservice\data\notebook.microservice.data\notebook.microservice.data.csproj", "{F0DBF836-5B9E-427B-A199-65C194028B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notebook.microservice.service", "microservices\notebook.microservice\service\notebook.microservice.service\notebook.microservice.service.csproj", "{845C2F53-66DE-4779-809B-9F488CF424F7}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221F5671-3520-46BC-B797-E4EEB2C8D9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221F5671-3520-46BC-B797-E4EEB2C8D9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221F5671-3520-46BC-B797-E4EEB2C8D9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221F5671-3520-46BC-B797-E4EEB2C8D9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7660C1E5-A5C9-4644-A320-84609F513304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7660C1E5-A5C9-4644-A320-84609F513304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7660C1E5-A5C9-4644-A320-84609F513304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7660C1E5-A5C9-4644-A320-84609F513304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85BBE8C-75E8-46AA-BED8-5FE00A22CC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85BBE8C-75E8-46AA-BED8-5FE00A22CC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85BBE8C-75E8-46AA-BED8-5FE00A22CC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85BBE8C-75E8-46AA-BED8-5FE00A22CC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0DBF836-5B9E-427B-A199-65C194028B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DBF836-5B9E-427B-A199-65C194028B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DBF836-5B9E-427B-A199-65C194028B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DBF836-5B9E-427B-A199-65C194028B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845C2F53-66DE-4779-809B-9F488CF424F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845C2F53-66DE-4779-809B-9F488CF424F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845C2F53-66DE-4779-809B-9F488CF424F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845C2F53-66DE-4779-809B-9F488CF424F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{221F5671-3520-46BC-B797-E4EEB2C8D9F3} = {7BC25732-282D-43EA-945B-8448ADD8194D}
+		{7660C1E5-A5C9-4644-A320-84609F513304} = {E756F2BC-2622-46EB-85CA-73841041EB3A}
+		{DFE6F0C8-200B-4D68-8A89-DC11A0B408D0} = {D585806A-E5DA-4D5F-8AEB-6F714A6AC354}
+		{334E84D1-A4F2-4372-BE58-175357404428} = {DFE6F0C8-200B-4D68-8A89-DC11A0B408D0}
+		{6F3587C3-E256-4BE1-AC75-61B4AA5C6C9A} = {DFE6F0C8-200B-4D68-8A89-DC11A0B408D0}
+		{D85BBE8C-75E8-46AA-BED8-5FE00A22CC6A} = {334E84D1-A4F2-4372-BE58-175357404428}
+		{5304AE7F-5304-4AF6-960E-63E0C0C55BAF} = {DFE6F0C8-200B-4D68-8A89-DC11A0B408D0}
+		{F0DBF836-5B9E-427B-A199-65C194028B84} = {6F3587C3-E256-4BE1-AC75-61B4AA5C6C9A}
+		{845C2F53-66DE-4779-809B-9F488CF424F7} = {5304AE7F-5304-4AF6-960E-63E0C0C55BAF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0E08CD26-4EB3-4581-9913-8C1C291E9624}

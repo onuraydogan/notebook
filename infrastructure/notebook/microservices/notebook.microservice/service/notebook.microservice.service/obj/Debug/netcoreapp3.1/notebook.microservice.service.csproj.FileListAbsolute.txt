@@ -1,0 +1,16 @@
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\bin\Debug\netcoreapp3.1\notebook.microservice.service.deps.json
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\bin\Debug\netcoreapp3.1\notebook.microservice.service.dll
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\bin\Debug\netcoreapp3.1\notebook.microservice.service.pdb
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\obj\Debug\netcoreapp3.1\notebook.microservice.service.csprojAssemblyReference.cache
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\obj\Debug\netcoreapp3.1\notebook.microservice.service.AssemblyInfoInputs.cache
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\obj\Debug\netcoreapp3.1\notebook.microservice.service.AssemblyInfo.cs
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\obj\Debug\netcoreapp3.1\notebook.microservice.service.csproj.CoreCompileInputs.cache
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\obj\Debug\netcoreapp3.1\notebook.microservice.service.dll
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\obj\Debug\netcoreapp3.1\notebook.microservice.service.pdb
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\bin\Debug\netcoreapp3.1\notebook.core.dll
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\bin\Debug\netcoreapp3.1\notebook.microservice.data.dll
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\bin\Debug\netcoreapp3.1\notebook.microservice.data.pdb
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\bin\Debug\netcoreapp3.1\notebook.core.pdb
+D:\My Works\notebook-app\software\notebook\infrastructure\notebook\microservices\notebook.microservice\service\notebook.microservice.service\obj\Debug\netcoreapp3.1\notebook.microservice.service.csproj.CopyComplete
